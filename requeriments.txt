@@ -1,0 +1,4 @@
+Flask
+smtplib
+python-dotenv
+schedule

@@ -1,0 +1,35 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de entorno
+.env
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de caché
+.__pycache__/
+.cache/
+*.tmp
+
+# Archivos de configuración de Docker
+docker-compose.yml
+Dockerfile
+
+# Archivos de configuración de Flask
+instance/
