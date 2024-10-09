@@ -9,7 +9,7 @@ env/
 *.pyc
 *.pyo
 *.pyd
-__pycache__/
+_pycache_/
 *.so
 
 # Archivos de logs
@@ -23,7 +23,7 @@ __pycache__/
 .idea/
 
 # Archivos de caché
-.__pycache__/
+._pycache_/
 .cache/
 *.tmp
 
